@@ -1,0 +1,16 @@
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\bin\Debug\net5.0\classObjectsCs.exe
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\bin\Debug\net5.0\classObjectsCs.deps.json
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\bin\Debug\net5.0\classObjectsCs.runtimeconfig.json
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\bin\Debug\net5.0\classObjectsCs.runtimeconfig.dev.json
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\bin\Debug\net5.0\classObjectsCs.dll
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\bin\Debug\net5.0\ref\classObjectsCs.dll
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\bin\Debug\net5.0\classObjectsCs.pdb
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.csproj.AssemblyReference.cache
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.AssemblyInfoInputs.cache
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.AssemblyInfo.cs
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.csproj.CoreCompileInputs.cache
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.dll
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\ref\classObjectsCs.dll
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.pdb
+C:\Users\Sorath\desktop\codes\github\dio\classObjectsCs\obj\Debug\net5.0\classObjectsCs.genruntimeconfig.cache
